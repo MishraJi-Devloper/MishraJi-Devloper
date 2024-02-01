@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-9500b2.netlify.app/](https://myportfolio-9500b2.netlify.app/)
+- 👨‍💻 Here is my personal website  [https://myportfolio-9500b2.netlify.app/](https://myportfolio-9500b2.netlify.app/)
 
 - 📫 How to reach me **arunabhamishra39@gmail.com**
 
