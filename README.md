@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arunabha Mishra</h1>
-<h3 align="center">A passionate Web developer from Chandigarh University</h3>
+<h3 align="center">A passionate Web developer and Bug Bounter from Chandigarh University</h3>
 <img align="right" alt="Hello" width="400" src ="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MishraJi-Devloper&label=Profile%20views&color=0e75b6&style=flat" alt="MishraJi-Devloper" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@mishrami73789" target="blank"><img src="https://img.shields.io/twitter/follow/@mishrami73789?logo=twitter&style=for-the-badge" alt="@mishrami73789" /></a> </p>
 
-- 🌱 I’m currently learning about **Angular and Backend Dev**
+- 🌱 I’m currently learning about **Cyber Security**
 
 - 👨‍💻 Here is my personal website  [https://myportfolio-9500b2.netlify.app/](https://myportfolio-9500b2.netlify.app/)
 
