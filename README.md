@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunabha Mishra</h1>
-<h3 align="center">A passionate Web developer and Cyber Security enthusiast from Chandigarh University</h3>
+<h3 align="center">A passionate Web developer and Cyber Security enthusiast from IIT MADRAS</h3>
 <img align="right" alt="Hello" width="400" src ="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MishraJi-Devloper&label=Profile%20views&color=0e75b6&style=flat" alt="MishraJi-Devloper" /> </p>
