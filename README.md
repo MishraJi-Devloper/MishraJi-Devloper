@@ -1,23 +1,21 @@
 <div align="center">
 
-<!-- Cyber / Terminal Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=Arunabha%20Mishra&fontSize=42&fontAlignY=35&desc=%5B%20Web%20Developer%20%7C%20Cyber%20Security%20Researcher%20%5D&descSize=18&descAlignY=60&fontColor=ffffff" width="100%" />
-
-<!-- Animated Terminal Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Initializing+session...;Access+Granted+%3A%3A+Welcome+to+my+terminal;Passionate+about+Offensive+Security+%26+Web+Sec;Compromising+Vulnerabilities+%7C+Building+Secure+Code" alt="Typing SVG" />
-</a>
+<!-- 1. The Exact Hacker HUD Card with Your Photo & ASCII Skull -->
+<img src="hacker-header.png" width="100%" alt="Arunabha Mishra Cyber HUD" />
 
 <br/><br/>
 
-<!-- Profile Views & Social Shields -->
+<!-- Real-time Status Badges & Direct Links -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MishraJi-Devloper&label=SHELL%20ACCESS&color=00ff66&style=for-the-badge" alt="Profile Views" />
-  <a href="https://twitter.com/@mishrami73789" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=00ff66" alt="Twitter" />
+  <img src="https://komarev.com/ghpvc/?username=MishraJi-Devloper&label=SHELL%20ACCESS&color=00ff66&style=for-the-badge" alt="Profile views" />
+  <a href="https://mishraji-devloper.github.io/New-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=00ff66" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/arunabha-mishra-a35128245" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff66" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/@mishrami73789" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff66" alt="Twitter" />
   </a>
 </p>
 
@@ -25,11 +23,64 @@
 
 ---
 
-### 💻 `root@arunabha:~# whoami`
+### 🛡️ `root@arunabha:~# ls -la /arsenal/tools`
 
-```bash
-[+] User:            Arunabha Mishra
-[+] Affiliation:     College of Engineering & Management, Kolaghat (CEMK)
-[+] Primary Focus:   Cyber Security, Penetration Testing & Web Dev
-[+] Current Status:  Hunting bugs & mastering network security
-[+] Portfolio:       [https://mishraji-devloper.github.io/New-portfolio/](https://mishraji-devloper.github.io/New-portfolio/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 `root@arunabha:~# systemctl status repository-telemetry`
+
+<div align="center">
+  <a href="https://github.com/MishraJi-Devloper">
+    <img src="https://github-readme-stats.vercel.app/api?username=MishraJi-Devloper&show_icons=true&theme=matrix&border_color=00ff66&bg_color=000000&title_color=00ff66&text_color=00ff66&icon_color=00ff66&count_private=true" width="49%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/MishraJi-Devloper">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraJi-Devloper&layout=compact&theme=matrix&border_color=00ff66&bg_color=000000&title_color=00ff66&text_color=00ff66" width="48%" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/MishraJi-Devloper">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MishraJi-Devloper&theme=matrix&border=00ff66&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" width="98%" alt="Streak Stats" />
+  </a>
+</div>
+
+---
+
+### 🌐 `root@arunabha:~# netstat -an | grep CONNECT`
+
+<p align="center">
+  <a href="https://linkedin.com/in/arunabha-mishra-a35128245" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="38" />
+  </a>
+  <a href="https://twitter.com/@mishrami73789" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32" width="38" />
+  </a>
+  <a href="https://www.hackerrank.com/@arunabhamishra39" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="32" width="38" />
+  </a>
+  <a href="https://www.leetcode.com/arunabha39" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="38" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/arunabham754t" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="32" width="38" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>⚡ Profile updated via automated exploit framework... All systems operational ⚡</sub>
+</div>
