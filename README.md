@@ -1,31 +1,35 @@
-<h1 align="center">Hi 👋, I'm Arunabha Mishra</h1>
-<h3 align="center">A passionate Web developer and Cyber Security enthusiast from CEMK</h3>
-<img align="right" alt="Hello" width="400" src ="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MishraJi-Devloper&label=Profile%20views&color=0e75b6&style=flat" alt="MishraJi-Devloper" /> </p>
+<!-- Cyber / Terminal Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=Arunabha%20Mishra&fontSize=42&fontAlignY=35&desc=%5B%20Web%20Developer%20%7C%20Cyber%20Security%20Researcher%20%5D&descSize=18&descAlignY=60&fontColor=ffffff" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/@mishrami73789" target="blank"><img src="https://img.shields.io/twitter/follow/@mishrami73789?logo=twitter&style=for-the-badge" alt="@mishrami73789" /></a> </p>
+<!-- Animated Terminal Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Initializing+session...;Access+Granted+%3A%3A+Welcome+to+my+terminal;Passionate+about+Offensive+Security+%26+Web+Sec;Compromising+Vulnerabilities+%7C+Building+Secure+Code" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning about **Cyber Security**
+<br/><br/>
 
-- 👨‍💻 Here is my personal website  [https://mishraji-devloper.github.io/New-portfolio/](https://mishraji-devloper.github.io/New-portfolio/)
-
-- 📫 How to reach me **arunabhamishra39@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@mishrami73789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mishrami73789" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arunabha-mishra-a35128245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunabha-mishra-a35128245" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@arunabhamishra39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arunabhamishra39" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arunabha39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arunabha39" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arunabham754t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arunabham754t" height="30" width="40" /></a>
+<!-- Profile Views & Social Shields -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MishraJi-Devloper&label=SHELL%20ACCESS&color=00ff66&style=for-the-badge" alt="Profile Views" />
+  <a href="https://twitter.com/@mishrami73789" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=00ff66" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/arunabha-mishra-a35128245" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff66" alt="LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraJi-Devloper&show_icons=true&locale=en&layout=compact" alt="MishraJi-Devloper" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MishraJi-Devloper&show_icons=true&locale=en" alt="MishraJi-Devloper" /></p>
+### 💻 `root@arunabha:~# whoami`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MishraJi-Devloper&" alt="MishraJi-Devloper" /></p>
+```bash
+[+] User:            Arunabha Mishra
+[+] Affiliation:     College of Engineering & Management, Kolaghat (CEMK)
+[+] Primary Focus:   Cyber Security, Penetration Testing & Web Dev
+[+] Current Status:  Hunting bugs & mastering network security
+[+] Portfolio:       [https://mishraji-devloper.github.io/New-portfolio/](https://mishraji-devloper.github.io/New-portfolio/)
